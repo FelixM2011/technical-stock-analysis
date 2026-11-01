@@ -1,0 +1,21 @@
+# live implementation scripts + source book: stay in your own workspace, deliberately not published here
+data_fetch.py
+tak_analyze.py
+TechnischeAktienanalyse.pdf
+
+# local research artifacts
+*_series3y.json
+*.log
+research_*/
+scratch/
+
+# python cache
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# editor / os noise
+.DS_Store
+.idea/
+.vscode/
